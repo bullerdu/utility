@@ -1,2 +1,2 @@
 # utility
-some utility tool
+utility tool
